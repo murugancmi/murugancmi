@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @murugancmi
-- 👀 I’m interested in Business Voice Communication and Voice in IoT (WebRTC,PSTN,VOIP,VoLTE,Vo5G)
-- 🌱 I’m currently Building  cloud customer engagement platform (TeleCMI,PIOPIY)
+- 👀 I’m interested in Business Voice Communication and Voice in AI (WebRTC,PSTN,VOIP,VoLTE,Vo5G,LLM,ASR,TTS)
+- 🌱 I’m currently Building  AI voice customer engagement platform (TeleCMI,PIOPIY,VOICE AI)
 - 📫 How to reach me murugan@telecmi.com
 
 <!---
